@@ -1,4 +1,4 @@
-Static site generation for food.dk using Hugo
+Static site generation for food.borys.dk using Hugo
 
 ### How to add a recipe
 1. Run `hugo new --kind recipe-bundle recipes/<name-of-new-recipe>`

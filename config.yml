@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: ""
 title: "Recipes"
 author: "Clemens Borys"
 paginate: 5
