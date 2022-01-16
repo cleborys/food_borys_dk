@@ -28,6 +28,6 @@ cover:
 1. Roas the vegetables in the oven with desired spices
 1. Stir fry the meat with taco seasoning
 1. Beans can be used either
-  * straight from the can
-  * or crushed and fried with spices
+    * straight from the can
+    * or crushed and fried with spices
 1. Assemble tacos on-demand
