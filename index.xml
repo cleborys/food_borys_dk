@@ -5,15 +5,34 @@
     <link>/</link>
     <description>Recent content on Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 14 Jan 2022 11:30:03 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Draft post title</title>
-      <link>/recipes/tacos2/</link>
-      <pubDate>Fri, 14 Jan 2022 11:30:03 +0000</pubDate>
+      <title>Avocado Pasta</title>
+      <link>/recipes/avocadopasta/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/recipes/tacos2/</guid>
-      <description>Desc Text.</description>
+      <guid>/recipes/avocadopasta/</guid>
+      <description>Spaghetti with a quick sauce made from avocado</description>
     </item>
+    
+    <item>
+      <title>Eggplant Parmesan</title>
+      <link>/recipes/eggplangparmesan/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/eggplangparmesan/</guid>
+      <description>Not quite Daniele&amp;rsquo;s eggplant parmesan</description>
+    </item>
+    
+    <item>
+      <title>Tacos</title>
+      <link>/recipes/tacos/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/tacos/</guid>
+      <description>Classic vegetable tacos</description>
+    </item>
+    
     
   </channel>
 </rss>
