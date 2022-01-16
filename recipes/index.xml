@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Recipes</title>
-    <link>food.borys.dk/recipes/</link>
+    <link>https://food.borys.dk/recipes/</link>
     <description>Recent content on Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="food.borys.dk/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://food.borys.dk/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Avocado Pasta</title>
-      <link>food.borys.dk/recipes/avocadopasta/</link>
+      <link>https://food.borys.dk/recipes/avocadopasta/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>food.borys.dk/recipes/avocadopasta/</guid>
+      <guid>https://food.borys.dk/recipes/avocadopasta/</guid>
       <description>Spaghetti with a quick sauce made from avocado</description>
     </item>
     
     <item>
       <title>Dan Dan Noodles</title>
-      <link>food.borys.dk/recipes/dandannoodles/</link>
+      <link>https://food.borys.dk/recipes/dandannoodles/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>food.borys.dk/recipes/dandannoodles/</guid>
+      <guid>https://food.borys.dk/recipes/dandannoodles/</guid>
       <description>Spicy Szechuan modeled after Killer Noodle</description>
     </item>
     
     <item>
       <title>Deep Dish Pizza</title>
-      <link>food.borys.dk/recipes/deepdishpizza/</link>
+      <link>https://food.borys.dk/recipes/deepdishpizza/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>food.borys.dk/recipes/deepdishpizza/</guid>
+      <guid>https://food.borys.dk/recipes/deepdishpizza/</guid>
       <description>Modeled after Giordano&amp;rsquo;s Chicago deep dish pizza</description>
     </item>
     
     <item>
       <title>Eggplant Parmesan</title>
-      <link>food.borys.dk/recipes/eggplangparmesan/</link>
+      <link>https://food.borys.dk/recipes/eggplangparmesan/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>food.borys.dk/recipes/eggplangparmesan/</guid>
+      <guid>https://food.borys.dk/recipes/eggplangparmesan/</guid>
       <description>Not quite Daniele&amp;rsquo;s eggplant parmesan</description>
     </item>
     
     <item>
       <title>Faster Dan Dan Spaghetti</title>
-      <link>food.borys.dk/recipes/dandannoodlesquick/</link>
+      <link>https://food.borys.dk/recipes/dandannoodlesquick/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>food.borys.dk/recipes/dandannoodlesquick/</guid>
+      <guid>https://food.borys.dk/recipes/dandannoodlesquick/</guid>
       <description>Fake Szechuan that can replace real dan dan in a pinch</description>
     </item>
     
     <item>
       <title>Tacos</title>
-      <link>food.borys.dk/recipes/tacos/</link>
+      <link>https://food.borys.dk/recipes/tacos/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>food.borys.dk/recipes/tacos/</guid>
+      <guid>https://food.borys.dk/recipes/tacos/</guid>
       <description>Classic vegetable tacos</description>
     </item>
     
