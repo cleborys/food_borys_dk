@@ -70,7 +70,7 @@ params:
 menu:
   main:
     - name: search
-      url: search/
+      url: /search/
       weight: 10
     - identifier: categories
       name: categories
