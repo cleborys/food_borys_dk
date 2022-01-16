@@ -8,7 +8,16 @@
     <loc>/categories/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/recipes/dandannoodles/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/recipes/deepdishpizza/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/recipes/eggplangparmesan/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/recipes/dandannoodlesquick/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/main/</loc>
@@ -20,11 +29,15 @@
     <loc>/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/spicy/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/recipes/tacos/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/search/</loc>
-  </url><url>
     <loc>/tags/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/search/</loc>
   </url>
 </urlset>

@@ -16,12 +16,39 @@
     </item>
     
     <item>
+      <title>Dan Dan Noodles</title>
+      <link>/recipes/dandannoodles/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/dandannoodles/</guid>
+      <description>Spicy Szechuan modeled after Killer Noodle</description>
+    </item>
+    
+    <item>
+      <title>Deep Dish Pizza</title>
+      <link>/recipes/deepdishpizza/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/deepdishpizza/</guid>
+      <description>Modeled after Giordano&amp;rsquo;s Chicago deep dish pizza</description>
+    </item>
+    
+    <item>
       <title>Eggplant Parmesan</title>
       <link>/recipes/eggplangparmesan/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>/recipes/eggplangparmesan/</guid>
       <description>Not quite Daniele&amp;rsquo;s eggplant parmesan</description>
+    </item>
+    
+    <item>
+      <title>Faster Dan Dan Spaghetti</title>
+      <link>/recipes/dandannoodlesquick/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/dandannoodlesquick/</guid>
+      <description>Fake Szechuan that can replace real dan dan in a pinch</description>
     </item>
     
     <item>
