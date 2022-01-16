@@ -67,6 +67,12 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
+# necessary for search to work
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
 menu:
   main:
     - name: search
