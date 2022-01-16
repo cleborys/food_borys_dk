@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Recipes</title>
-    <link>/categories/</link>
+    <link>food.borys.dk/categories/</link>
     <description>Recent content in Categories on Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="food.borys.dk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>main</title>
-      <link>/categories/main/</link>
+      <link>food.borys.dk/categories/main/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/main/</guid>
+      <guid>food.borys.dk/categories/main/</guid>
       <description></description>
     </item>
     
     <item>
       <title>quick-and-easy</title>
-      <link>/categories/quick-and-easy/</link>
+      <link>food.borys.dk/categories/quick-and-easy/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/quick-and-easy/</guid>
+      <guid>food.borys.dk/categories/quick-and-easy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snack</title>
-      <link>/categories/snack/</link>
+      <link>food.borys.dk/categories/snack/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/snack/</guid>
+      <guid>food.borys.dk/categories/snack/</guid>
       <description></description>
     </item>
     

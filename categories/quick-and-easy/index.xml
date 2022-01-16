@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>quick-and-easy on Recipes</title>
-    <link>/categories/quick-and-easy/</link>
+    <link>food.borys.dk/categories/quick-and-easy/</link>
     <description>Recent content in quick-and-easy on Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/quick-and-easy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="food.borys.dk/categories/quick-and-easy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quick ways to prepare eggs</title>
-      <link>/quick/eggs/</link>
+      <link>food.borys.dk/quick/eggs/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/quick/eggs/</guid>
+      <guid>food.borys.dk/quick/eggs/</guid>
       <description>A list of possible ways to prepare eggs</description>
     </item>
     
