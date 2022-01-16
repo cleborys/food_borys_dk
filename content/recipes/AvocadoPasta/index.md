@@ -13,24 +13,24 @@ cover:
 
 | Ingredients |
 | ---------- |
-| 12 ounces Spaghetti |
+| 350g Spaghetti |
 | 2 ripe Avocados |
-| 1/2 cup fresh basil leaves |
+| 1 handful fresh basil leaves |
 | 2 cloves garlic |
 | 2 tbsp lemon juice |
-| 1/3 cup olive oil |
-| 1 cup cherry tomatoes |
-| 1/2 cup canned corn |
+| 80ml olive oil |
+| 150g cherry tomatoes |
+| 1 small can of canned corn |
 
 # Instructions
-1. Cook **12 ounces of Spaghetti** and drain.
+1. Cook **350g of Spaghetti** and drain.
 1. Blend together the following:
-    * avocados, halved, seeded, peeled (2)
-    * basil leaves (1/2 cup)
+    * avocados, seeded, peeled (2)
+    * basil leaves (handful)
     * garlic (2 cloves)
     * lemon juice (2 tbsp)
 1. Season with salt and pepper. 
-1. Add olive oil in a slow stream until emulsified while continuing to blend.
+1. Add **80ml olive oil** in a slow stream until emulsified while continuing to blend.
 1. In a large bols, combine pasta, avocado sauce and the following:
-    * cherry tomatoes (1 cup)
-    * canned corn (1/2 cup)
+    * cherry tomatoes (150g)
+    * canned corn (1 small can)
