@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://food.borys.dk"
 title: "Recipes"
 author: "Clemens Borys"
 paginate: 5
