@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://food.borys.dk/recipes/avocadopasta/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://food.borys.dk/categories/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://food.borys.dk/categories/main/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://food.borys.dk/recipes/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://food.borys.dk/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://food.borys.dk/recipes/vodkasauce/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://food.borys.dk/recipes/avocadopasta/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://food.borys.dk/recipes/dandannoodles/</loc>
@@ -14,16 +26,13 @@
     <loc>https://food.borys.dk/recipes/deepdishpizza/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://food.borys.dk/recipes/eggplangparmesan/</loc>
+    <loc>https://food.borys.dk/recipes/eggplantparmesan/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://food.borys.dk/tags/eggs/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://food.borys.dk/recipes/dandannoodlesquick/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://food.borys.dk/categories/main/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://food.borys.dk/quick/eggs/</loc>
@@ -33,12 +42,6 @@
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://food.borys.dk/quick/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://food.borys.dk/recipes/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://food.borys.dk/</loc>
     <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://food.borys.dk/categories/snack/</loc>

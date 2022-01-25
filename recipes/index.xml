@@ -5,7 +5,16 @@
     <link>https://food.borys.dk/recipes/</link>
     <description>Recent content on Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://food.borys.dk/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://food.borys.dk/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vodka Pasta Sauce</title>
+      <link>https://food.borys.dk/recipes/vodkasauce/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://food.borys.dk/recipes/vodkasauce/</guid>
+      <description>Marika&amp;rsquo;s vodka sauce</description>
+    </item>
+    
     <item>
       <title>Avocado Pasta</title>
       <link>https://food.borys.dk/recipes/avocadopasta/</link>
@@ -35,10 +44,10 @@
     
     <item>
       <title>Eggplant Parmesan</title>
-      <link>https://food.borys.dk/recipes/eggplangparmesan/</link>
+      <link>https://food.borys.dk/recipes/eggplantparmesan/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://food.borys.dk/recipes/eggplangparmesan/</guid>
+      <guid>https://food.borys.dk/recipes/eggplantparmesan/</guid>
       <description>Not quite Daniele&amp;rsquo;s eggplant parmesan</description>
     </item>
     
