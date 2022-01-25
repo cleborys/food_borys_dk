@@ -32,5 +32,5 @@ cover:
     2. a layer of eggplant slices
     3. a layer of cheeses
     4. repeat
-1. Cover with aluminum foul and bake at about 180C for 30 minutes
+1. Cover with aluminum foil and bake at about 180C for 30 minutes
 1. Bake uncovered for another 10 minutes
