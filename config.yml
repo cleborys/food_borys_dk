@@ -1,7 +1,7 @@
 baseURL: "https://food.borys.dk"
 title: "Recipes"
 author: "Clemens Borys"
-paginate: 5
+paginate: 50
 theme: PaperMod
 
 enableRobotsTXT: true
