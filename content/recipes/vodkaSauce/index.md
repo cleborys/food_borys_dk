@@ -18,7 +18,7 @@ cover:
 | 1/4 cup of olive oil |
 | 7 cloves of garlic, minced |
 | red pepper flakes |
-| 1/2 + 2 tbsp vodka |
+| 1/2 cup + 2 tbsp vodka |
 | 1/3 cup heavy cream |
 | 2 tbsp butter |
 | 3/4 cup parmesan |
